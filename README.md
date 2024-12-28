@@ -5,4 +5,4 @@ With that you can easily detect all x64dbg even if they use scyllahide or someth
 
 Please read comment very important! 
 
-![Demo](2024-12-2723-28-32-ezgif.com-video-to-gif-converter.gif)
+[Watch the video](https://youtu.be/8Z0K9UeUzQA)
